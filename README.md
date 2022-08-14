@@ -1,6 +1,4 @@
-https://camo.githubusercontent.com/2898f0c09bce75ece267eebc77c08d3a111032a2fca29bf8b0f499b10f4c1c86/68747470733a2f2f632e74656e6f722e636f6d2f62514f7562396d75374c6341414141642f6a692d747970696e672e676966
-
-
+                                       !!!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hm.nhh) 
 
 # 💻Tech Stack
