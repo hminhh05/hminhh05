@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111162458/184536138-19365b6e-50a1-4421-a0f1-8c41e0973673.png)
+https://camo.githubusercontent.com/2898f0c09bce75ece267eebc77c08d3a111032a2fca29bf8b0f499b10f4c1c86/68747470733a2f2f632e74656e6f722e636f6d2f62514f7562396d75374c6341414141642f6a692d747970696e672e676966
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hm.nhh) 
@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hminhh05&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hminhh05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
+###  Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
